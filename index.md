@@ -8,7 +8,7 @@ I as a computer science student at CSUF and I expect to graduate in 2027
 
   I enjoyed this lab because it was a very good introduction to the course overall. This was my first time using Linux and any coding software like C++, so it was enjoyable to begin to understand how these systems work. Learning the commands to access directories like $ls was useful up until the most recent lab, and our first experiences with "Hello World" intorduced us to the use of VScode.
 
-* Lab 9, Part 
+* Lab 9, Part 2
 
   I enjoyed this lab as well, because I am familar with the Philisopher's problem. Our use of strings and if statements in order to validate each schedule's legitimacy really allowed for us to understand the concept of string breaks and provided a refresher on if statements that we were introduced to in lab 6.
 
